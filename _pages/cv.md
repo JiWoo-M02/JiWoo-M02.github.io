@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-%* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-%* M.S. in Jekyll, GitHub University, 2014
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in System Control Engineering, Hoseo University, 2025
-*      in Data Software Convergence Track (Minor)
+       in Data Software Convergence Track (Minor)
 
 Work experience
 ======

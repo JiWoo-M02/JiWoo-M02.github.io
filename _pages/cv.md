@@ -7,17 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}  
 
-
-
-# Education
+Education
 ======
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in System Control Engineering, Hoseo University, 2025
-
-<br>
 
 Internships
 ======
@@ -25,8 +21,6 @@ Internships
   * Undergraduate Researcher (2022 - 2024)
   * Deep Learning
   * Participated in research paper seminars
-
-<br>
 
 Work Experience
 ======

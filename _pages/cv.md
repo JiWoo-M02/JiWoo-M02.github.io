@@ -23,6 +23,7 @@ Servo Electric Machine & Information Control LAB
 <br> Undergraduate Researcher (2022 - 2024)
 ● Deep Learning
 ● Participated in research paper seminars
+
 <br>
 
 Work Experience

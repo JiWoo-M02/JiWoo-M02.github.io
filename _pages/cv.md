@@ -9,37 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
+<br>
+<br>
+
 Education
 ======
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in System Control Engineering, Hoseo University, 2025
 
+<br>
+<br>
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Korea Institute of Science and Technology Information (KISIT)
+  * Intern
+  * 2025.02 – Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* INNOBASE Co., Ltd.
+  * Intern
+  * 2024.12 – 2025.01
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+<br>
+<br>
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * C
+  * Verilog
+  * Matlab
+* Deep Learning
+  * TensorFlow
+  * PyTorch
+  * Keras
+  * Skicit‑learn
+  * OpenCV
+* Data Analysis
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Seaborn
 
 <!--Publications
 ======
@@ -53,13 +66,18 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>-->
 
- 
+<br>
+<br>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br>
+<br>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

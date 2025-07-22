@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Education
+# Education
 ======
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014-->
@@ -21,22 +21,22 @@ Education
 
 Internships
 ======
-Servo Electric Machine & Information Control LAB
-<br> Undergraduate Researcher (2022 - 2024)
-* Deep Learning
-* Participated in research paper seminars
+* Servo Electric Machine & Information Control LAB
+  * Undergraduate Researcher (2022 - 2024)
+  * Deep Learning
+  * Participated in research paper seminars
 
 <br>
 
 Work Experience
 ======
-Korea Institute of Science and Technology Information (KISIT)
-* Intern
-* 2025.02 – Present
+* Korea Institute of Science and Technology Information (KISIT)
+  * Intern
+  * 2025.02 – Present
 
-INNOBASE Co., Ltd.
-* Intern
-* 2024.12 – 2025.01
+* INNOBASE Co., Ltd.
+  * Intern
+  * 2024.12 – 2025.01
 
 <br>
 

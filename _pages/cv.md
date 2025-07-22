@@ -20,19 +20,20 @@ Education
 Internships
 ======
 Servo Electric Machine & Information Control LAB
-Undergraduate Researcher
+<br> Undergraduate Researcher (2022 - 2024)
 ● Deep Learning
 ● Participated in research paper seminars
+<br>
 
 Work Experience
 ======
-* Korea Institute of Science and Technology Information (KISIT)
-  * Intern
-  * 2025.02 – Present
+Korea Institute of Science and Technology Information (KISIT)
+* Intern
+* 2025.02 – Present
 
-* INNOBASE Co., Ltd.
-  * Intern
-  * 2024.12 – 2025.01
+INNOBASE Co., Ltd.
+* Intern
+* 2024.12 – 2025.01
 
 <br>
 

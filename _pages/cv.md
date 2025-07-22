@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -21,8 +23,8 @@ Internships
 ======
 Servo Electric Machine & Information Control LAB
 <br> Undergraduate Researcher (2022 - 2024)
-● Deep Learning
-● Participated in research paper seminars
+* Deep Learning
+* Participated in research paper seminars
 
 <br>
 

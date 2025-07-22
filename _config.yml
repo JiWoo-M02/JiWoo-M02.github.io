@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : <img width="126" height="160" alt="ME" src="https://github.com/user-attachments/assets/99c210e9-fc1e-41f2-8abd-d49b0f822371" />
   name             : "JiWoo Maeng"
   pronouns         : "she/her"  
   bio              : "I major in System Control Engineering and Minor in Data Software. I have interest in AI. :)"

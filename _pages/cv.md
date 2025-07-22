@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
-<br>
-<br>
-
 Education
 ======
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -20,9 +16,15 @@ Education
 * B.S. in System Control Engineering, Hoseo University, 2025
 
 <br>
-<br>
 
-Work experience
+Internships
+======
+Servo Electric Machine & Information Control LAB
+Undergraduate Researcher
+● Deep Learning
+● Participated in research paper seminars
+
+Work Experience
 ======
 * Korea Institute of Science and Technology Information (KISIT)
   * Intern
@@ -33,26 +35,13 @@ Work experience
   * 2024.12 – 2025.01
 
 <br>
-<br>
 
 Skills
 ======
-* Programming
-  * Python
-  * C
-  * Verilog
-  * Matlab
-* Deep Learning
-  * TensorFlow
-  * PyTorch
-  * Keras
-  * Skicit‑learn
-  * OpenCV
-* Data Analysis
-  * Numpy
-  * Pandas
-  * Matplotlib
-  * Seaborn
+* Languages: Python, C, Verilog, Matlab
+* Technologies: Pytorch, TensorFlow, Keras, Numpy, Pandas
+* Tools: VSCode, Git, GitHub, Conda, SolidWorks, LABVIEW
+
 
 <!--Publications
 ======
@@ -67,7 +56,6 @@ Talks
   {% endfor %}</ul>-->
 
 <br>
-<br>
 
 Teaching
 ======
@@ -75,7 +63,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<br>
 <br>
 
 Service and leadership

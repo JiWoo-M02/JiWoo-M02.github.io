@@ -10,59 +10,39 @@ redirect_from:
 {% include base_path %}  
 
 Education
-======
-<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014-->
+------
 * B.S. in System Control Engineering, Hoseo University, 2025
 
 Internships
-======
-* Servo Electric Machine & Information Control LAB
-  * Undergraduate Researcher (2022 - 2024)
+------
+* Aug. 2022 - Dec. 2024 : Undergraduate Researcher
+  * Servo Electric Machine & Information Control LAB
   * Deep Learning
   * Participated in research paper seminars
 
 Work Experience
-======
+------
 * Korea Institute of Science and Technology Information (KISIT)
-  * Intern
-  * 2025.02 – Present
+  * Feb. 2025 – Present : Intern
 
 * INNOBASE Co., Ltd.
-  * Intern
-  * 2024.12 – 2025.01
+  * Dec. 2024 – Jan. 2025 : Intern
 
-<br>
 
 Skills
-======
+------
 * Languages: Python, C, Verilog, Matlab
 * Technologies: Pytorch, TensorFlow, Keras, Numpy, Pandas
 * Tools: VSCode, Git, GitHub, Conda, SolidWorks, LABVIEW
 
 
-<!--Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>-->
-
-<br>
-
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<br>
 
 Service and leadership
-======
+------
 * Currently signed in to 43 different slack teams

@@ -8,19 +8,19 @@ redirect_from:
 ---
 
 ## Welcome to JiWoo’s Page 🐈
-Hello! I’m JiWoo Maeng.
-I majored in System Control and minored in Data Software.  
+Hello, I’m JiWoo Maeng.
 
-I am very interested in data analysis and modeling based on artificial intelligence.  
+I majored in System Control and minored in Data Software during my undergraduate studies, where I developed a strong interest in solving real-world problems through data-driven approaches.
+Starting in my second year, I worked as an undergraduate research assistant for about three years, taking various courses in AI-based data analysis and modeling while participating in hands-on projects.
 
-While working as an intern at the Korea Institute of Science and Technology Information (KISTI), I have become fascinated by analyzing and solving real-world problems through data-driven approaches.
+Some of my representative projects include:
+* Social Welfare Transportation Support System Using Deep Learning(R-CNN)
+* Development of an Enhanced Electric Power Demand Forecasting Model Using GRU Time Series Prediction and Reinforcement Learning
 
-So far, I have worked on projects such as:
+Through these experiences, I discovered a deep passion for analyzing and solving practical problems with data and artificial intelligence.
 
-A traffic signal optimization system for vulnerable road users using the R-CNN algorithm
+Currently, I am working as an intern at the Korea Institute of Science and Technology Information (KISTI), where I support research related to NLP and LLM.
 
-A power demand forecasting model utilizing GRU and reinforcement learning
+I enjoy taking on new challenges and am always eager to learn and grow.
 
-I enjoy taking on new challenges and learning new things.
-I am especially passionate about making the world a better place through AI and data science.
 

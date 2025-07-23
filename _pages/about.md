@@ -11,7 +11,8 @@ redirect_from:
 Hello, I’m JiWoo Maeng.
 
 I majored in System Control and minored in Data Software during my undergraduate studies, where I developed a strong interest in solving real-world problems through data-driven approaches.
-Starting in my second year, I worked as an undergraduate research assistant for about three years, taking various courses in AI-based data analysis and modeling while participating in hands-on projects.
+
+Starting in my second year, I worked as an undergraduate research for about three years, taking various courses in AI-based data analysis and modeling while participating in hands-on projects.
 
 Some of my representative projects include:
 * Social Welfare Transportation Support System Using Deep Learning(R-CNN)

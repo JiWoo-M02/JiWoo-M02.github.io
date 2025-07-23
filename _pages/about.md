@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to JiWoo’s Page 🐈‍⬛
+## Welcome to JiWoo’s Page 🐈
 Hello! I’m JiWoo Maeng.
-I majored in System Control and minored in Data Software.
+I majored in System Control and minored in Data Software.  
 
-I am very interested in data analysis and modeling based on artificial intelligence.
+I am very interested in data analysis and modeling based on artificial intelligence.  
+
 While working as an intern at the Korea Institute of Science and Technology Information (KISTI), I have become fascinated by analyzing and solving real-world problems through data-driven approaches.
 
 So far, I have worked on projects such as:
